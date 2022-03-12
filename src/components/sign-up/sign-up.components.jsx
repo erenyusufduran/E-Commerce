@@ -90,7 +90,7 @@ class SignUp extends React.Component {
             required
             placeholder="Confirm Password"
           />
-          <CustomButton type="button">SIGN UP</CustomButton>
+          <CustomButton type="submit">SIGN UP</CustomButton>
         </form>
       </div>
     );
